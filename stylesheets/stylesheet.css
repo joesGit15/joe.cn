@@ -216,7 +216,7 @@ hr {
   margin: 1px 8px 0 0;
   float: left;
 }
-
+/*修改ICO图标*/
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
@@ -244,4 +244,9 @@ a {
 
 .cf {
   zoom:1;
+}
+
+/*我的CSS*/
+p{
+	text-indent:2em;
 }
